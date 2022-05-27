@@ -1,0 +1,19 @@
+segment_sources:
+  I5D2D4A28:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5CB50C5D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0fef9974576b41f1a4de9eae0d07d88e:
+    I5D2D4A28: 6b870bdadfd0422ebc86cbe43f69ba59
+    I5CB50C5D: 37beb57730e2441196928ea962519084
+  a29a383707d64cb5a63acb6073564850:
+    I5D2D4A28: 3550449bafc642bc8e81cdd9140ce54a
+    I5CB50C5D: ca6fb8ea875a4bbab3640dd1c1d67db6
+  bdba7229239d42beb40a00b8941fdc20:
+    I5D2D4A28: 7ca60b6e623e4604b3cbf09af4bd4838
+    I5CB50C5D: b777340f28b64a478e5e7fb33b1714c1
